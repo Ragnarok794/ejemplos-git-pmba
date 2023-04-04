@@ -7,5 +7,4 @@
 - git reset --hard : borra todos los cambios pendientes
 - git restore <file>: borra los cambios de un archivo en concreto 
 - git branch -m : me cambia de rama
-- git push -u origin main: La primera vez que subo los cambios de una rama, si vuelvo hacer un push solo necesito escribir push.
-- git push : me vuelva los cambios guardados del repositorio de mi ordenador a mi repositiro de github.
+- git push -u <rama>: subo mis cambios (commits) a la plataforma cloud odnde tengo mi proyecto de git(github). Con el -u conecto mi rama para siempre, y ahora puedo usar git push directamente.
